@@ -1,0 +1,1 @@
+n_layer1;n_layer2;dropout_1;dropout_2;act;optim;n_batch;best_val_acc
